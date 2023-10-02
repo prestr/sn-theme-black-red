@@ -1,0 +1,16 @@
+{
+  "identifier": "prestr.sn-theme-black-red",
+  "name": "Black & Red",
+  "content_type": "SN|Theme",
+  "version": "1.0",
+  "description": "Light theme for Standard Notes with a black sidebar and red accents.",
+  "url": "https://cdn.jsdelivr.net/gh/prestr/sn-theme-black-red@v1.0/main.css",
+  "latest_url": "https://listed.to/p/cl8x43Xx9t",
+  "download_url": "https://github.com/prestr/sn-theme-black-red/archive/refs/tags/v1.0.zip",
+  "dock_icon": {
+    "type": "circle",
+    "background_color": "#FD3737",
+    "foreground_color": "#FD3737",
+    "border_color": "#FD3737"
+  }
+}
