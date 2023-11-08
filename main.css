@@ -22,3 +22,8 @@
 .group:hover .group-hover\:text-text {
   color: #FD3737;
 }
+
+.super-empty-line-placeholder {
+    visibility: hidden; 
+    display: none;
+}
