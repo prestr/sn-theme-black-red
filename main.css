@@ -23,7 +23,7 @@
   color: #FD3737;
 }
 
-.super-empty-line-placeholder {
-    visibility: hidden; 
+/*Hide the "Search Tags" search field.*/
+.sticky {
     display: none;
 }
